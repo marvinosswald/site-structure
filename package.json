@@ -1,0 +1,24 @@
+{
+  "name": "site-structure",
+  "version": "1.0.0",
+  "description": "Gives back the structure of a website e.g. index, blog, contact",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/marvinosswald/site-structure"
+  },
+  "keywords": [
+    "website",
+    "crawler",
+    "structure"
+  ],
+  "author": "Marvin Oßwald <mail@marvinosswald.de> (http://marvinosswald.de/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marvinosswald/site-structure/issues"
+  },
+  "homepage": "https://github.com/marvinosswald/site-structure"
+}
